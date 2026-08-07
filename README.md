@@ -22,26 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[TestRail](https://www.testrail.com/)**  
-  Leading dedicated test case management platform with strong organization of test cases, runs, milestones, reporting, and extensive integrations (including Jira and automation results).
-
-- **[Xray](https://www.getxray.app/)**  
-  Popular Jira-native test management app supporting manual and automated testing, BDD/Cucumber, requirements traceability, and execution tracking inside Atlassian Jira.
-
-- **[Zephyr](https://www.smartbear.com/zephyr/)** (Zephyr Scale / Squad)  
-  Jira-integrated test management solutions offering test case repositories, execution, reporting, and enterprise-scale traceability within the Atlassian ecosystem.
-
-- **[Qase](https://qase.io/)**  
-  Modern, developer-friendly test management platform with clean UI, strong automation reporters, and both free and paid tiers.
-
-- **[PractiTest](https://www.practitest.com/)**  
-  End-to-end test management and ALM-style platform emphasizing requirements, test, and defect traceability with flexible workflows.
-
-- **[Testmo](https://www.testmo.com/)**, **[Aqua ALM](https://www.aqua-cloud.com/)**, **[QAComplete](https://smartbear.com/)**, **[Testiny](https://www.testiny.io/)**  
-  Additional commercial tools covering modern test management, exploratory testing support, enterprise ALM features, and lightweight team-oriented solutions.
-
-- **[Kiwi TCMS Cloud / hosted options](https://kiwitcms.org/)**  
-  Managed hosting offerings of the leading open-source test management system for teams that prefer not to self-host.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[TestRail](https://www.testrail.com/)** | Leading dedicated test case management platform with strong organization of test cases, runs, milestones, reporting, and extensive integrations. | Starts at ~$37/user/month | No free tier (Trial only) |
+| **[Xray](https://www.getxray.app/)** | Popular Jira-native test management app supporting manual and automated testing, BDD/Cucumber, and requirements traceability. | Varies by Jira tier | Up to 10 users on Jira Cloud |
+| **[Zephyr](https://www.smartbear.com/zephyr/)** (Scale / Squad) | Jira-integrated test management solutions offering test case repositories, execution, reporting, and enterprise-scale traceability. | Varies by Jira tier | Up to 10 users on Jira Cloud |
+| **[Qase](https://qase.io/)** | Modern, developer-friendly test management platform with clean UI, strong automation reporters, and both free and paid tiers. | Starts at ~$24/user/month | Free up to 3 users |
+| **[PractiTest](https://www.practitest.com/)** | End-to-end test management and ALM-style platform emphasizing requirements, test, and defect traceability with flexible workflows. | Starts at ~$49/user/month | No free tier (Trial only) |
+| **[Testmo](https://www.testmo.com/)** | Commercial tool covering modern test management and exploratory testing support. | Starts at ~$10/user/month | No free tier (Trial only) |
+| **[Aqua ALM](https://www.aqua-cloud.com/)** | Enterprise ALM features covering requirements, test, and defect management. | Starts at ~$39/user/month | No free tier (Trial only) |
+| **[QAComplete](https://smartbear.com/)** | Comprehensive test management for managing requirements, tests, and defects. | Contact Sales | No free tier (Trial only) |
+| **[Testiny](https://www.testiny.io/)** | Lightweight, fast team-oriented test management solution. | Starts at ~$17/user/month | Free up to 3 users |
+| **[Kiwi TCMS Cloud](https://kiwitcms.org/)** | Managed hosting offerings of the leading open-source test management system for teams that prefer not to self-host. | Starts at ~$65/tenant/month | Free for open-source projects |
 
 ## Open-Source GitHub Projects
 
