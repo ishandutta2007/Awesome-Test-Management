@@ -1,6 +1,6 @@
 # Awesome-Test-Management
 
-# Top Test Management Tools Ecosystem
+## Top Test Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Test Case Management, Test Plans, Execution Tracking, Requirements Traceability & QA Reporting*  
