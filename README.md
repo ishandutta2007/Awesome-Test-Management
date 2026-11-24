@@ -48,6 +48,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 🔓 Open-Source GitHub Projects
 
+- **[Treseko Community](https://github.com/treseko/treseko-platform)** - Open-source, self-hosted QA and test management platform for organizing test cases, running manual and automated executions, preserving evidence, tracking bugs, and reviewing release reports. Community edition is licensed under AGPL-3.0-or-later and includes Docker Compose deployment.
+
+
+
 - **[Allure Framework](https://github.com/allure-framework/allure2)** [![Stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)  
   Popular open-source test reporting and result aggregation ecosystem often paired with test management workflows.
 
